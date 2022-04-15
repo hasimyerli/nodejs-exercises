@@ -1,0 +1,10 @@
+{
+  "name": "jwt_example_app",
+  "version": "1.0.0",
+  "description": "Jwt example",
+  "author": "Haşim Yerli <hasim.yerli@gmail.com>",
+  "main": "server.js",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
