@@ -5,6 +5,7 @@
   "author": "Haşim Yerli <hasim.yerli@gmail.com>",
   "main": "server.js",
   "dependencies": {
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^8.5.1",
+    "dotenv": "~16.0.0"
   }
 }
