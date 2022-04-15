@@ -1,2 +1,2 @@
 # nodejs-exercises
-golang-exercises
+nodejs-exercises
